@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Comp1" />
+              <option name="title_text" value="6Step" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1577,7 +1577,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5y9jF6Nw8j3.5V9h0R47n8b" displaytext="ComponentsofAdvanceProductStrategy" expand="false" type="slide" />
+        <slidelink slideid="_player.5y9jF6Nw8j3.5V9h0R47n8b" displaytext="Strategy Formula" expand="false" type="slide" />
       </links>
     </outline>
   </nav_data>
